@@ -7,7 +7,7 @@ I just modified the below things.
 * Modify `2_deploy_contract.js`
 
 ## Installation
-```javascript
+```bash
 $ npm install -g truffle
 $ git clone https://github.com/tagomaru/MyMetaCoin.git
 ```
