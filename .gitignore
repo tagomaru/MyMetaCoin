@@ -89,3 +89,6 @@ typings/
 
 # truffle build
 build/
+
+# placeholder
+.placeholer
