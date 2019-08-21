@@ -2,12 +2,12 @@
 This truffle project is almost same as [truffle-box/metacoin-box](https://github.com/truffle-box/metacoin-box).
 I just modified the below things.
 
-* Move convert function from ConvertLib.sol to MetaCoin.sol
-* Remove ConvertLib.sol
-* Modify 2_deploy_contract.js
+* Move `convert` function from `ConvertLib.sol` to `MetaCoin.sol`
+* Remove `ConvertLib.sol`
+* Modify `2_deploy_contract.js`
 
 ## Installation
-```
+```javascript
 $ npm install -g truffle
 $ git clone https://github.com/tagomaru/MyMetaCoin.git
 ```
